@@ -1,6 +1,5 @@
 package com.company;
-import java.sql.SQLOutput;
-import java.util.InputMismatchException;
+
 
 public class Main {
     int array[];
